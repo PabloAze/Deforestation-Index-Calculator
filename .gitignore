@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Imagens de satélite
+*.tif
+*.tiff
+*.aux.xml
