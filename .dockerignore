@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+env
+__pycache__
+*.py[cod]
+.env
+.env.*
+.streamlit/secrets.toml
+*.tif
+*.tiff
+*.aux.xml

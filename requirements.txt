@@ -1,0 +1,4 @@
+streamlit==1.65.0
+rasterio==1.5.2
+numpy==2.5.3
+matplotlib==3.11.2
